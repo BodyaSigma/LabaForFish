@@ -1,0 +1,10 @@
+C:\Users\prost\OneDrive\Рабочий стол\лабы матвея\LABA2.2TestList2.2-master\TestList2.2\bin\Debug\TestList2.2.exe.config
+C:\Users\prost\OneDrive\Рабочий стол\лабы матвея\LABA2.2TestList2.2-master\TestList2.2\bin\Debug\TestList2.2.exe
+C:\Users\prost\OneDrive\Рабочий стол\лабы матвея\LABA2.2TestList2.2-master\TestList2.2\bin\Debug\TestList2.2.pdb
+C:\Users\prost\OneDrive\Рабочий стол\лабы матвея\LABA2.2TestList2.2-master\TestList2.2\obj\Debug\TestList2.2.csproj.AssemblyReference.cache
+C:\Users\prost\OneDrive\Рабочий стол\лабы матвея\LABA2.2TestList2.2-master\TestList2.2\obj\Debug\TestList2._2.Form1.resources
+C:\Users\prost\OneDrive\Рабочий стол\лабы матвея\LABA2.2TestList2.2-master\TestList2.2\obj\Debug\TestList2._2.Properties.Resources.resources
+C:\Users\prost\OneDrive\Рабочий стол\лабы матвея\LABA2.2TestList2.2-master\TestList2.2\obj\Debug\TestList2.2.csproj.GenerateResource.cache
+C:\Users\prost\OneDrive\Рабочий стол\лабы матвея\LABA2.2TestList2.2-master\TestList2.2\obj\Debug\TestList2.2.csproj.CoreCompileInputs.cache
+C:\Users\prost\OneDrive\Рабочий стол\лабы матвея\LABA2.2TestList2.2-master\TestList2.2\obj\Debug\TestList2.2.exe
+C:\Users\prost\OneDrive\Рабочий стол\лабы матвея\LABA2.2TestList2.2-master\TestList2.2\obj\Debug\TestList2.2.pdb
