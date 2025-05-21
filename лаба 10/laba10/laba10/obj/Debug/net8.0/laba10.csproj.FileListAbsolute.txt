@@ -1,0 +1,14 @@
+D:\Рыбаков лабы\лаба 10\laba10\laba10\bin\Debug\net8.0\laba10.exe
+D:\Рыбаков лабы\лаба 10\laba10\laba10\bin\Debug\net8.0\laba10.deps.json
+D:\Рыбаков лабы\лаба 10\laba10\laba10\bin\Debug\net8.0\laba10.runtimeconfig.json
+D:\Рыбаков лабы\лаба 10\laba10\laba10\bin\Debug\net8.0\laba10.dll
+D:\Рыбаков лабы\лаба 10\laba10\laba10\bin\Debug\net8.0\laba10.pdb
+D:\Рыбаков лабы\лаба 10\laba10\laba10\obj\Debug\net8.0\laba10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рыбаков лабы\лаба 10\laba10\laba10\obj\Debug\net8.0\laba10.AssemblyInfoInputs.cache
+D:\Рыбаков лабы\лаба 10\laba10\laba10\obj\Debug\net8.0\laba10.AssemblyInfo.cs
+D:\Рыбаков лабы\лаба 10\laba10\laba10\obj\Debug\net8.0\laba10.csproj.CoreCompileInputs.cache
+D:\Рыбаков лабы\лаба 10\laba10\laba10\obj\Debug\net8.0\laba10.dll
+D:\Рыбаков лабы\лаба 10\laba10\laba10\obj\Debug\net8.0\refint\laba10.dll
+D:\Рыбаков лабы\лаба 10\laba10\laba10\obj\Debug\net8.0\laba10.pdb
+D:\Рыбаков лабы\лаба 10\laba10\laba10\obj\Debug\net8.0\laba10.genruntimeconfig.cache
+D:\Рыбаков лабы\лаба 10\laba10\laba10\obj\Debug\net8.0\ref\laba10.dll

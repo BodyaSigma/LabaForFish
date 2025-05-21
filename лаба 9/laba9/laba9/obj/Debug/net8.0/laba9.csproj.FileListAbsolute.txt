@@ -1,0 +1,14 @@
+D:\Рыбаков лабы\лаба 9\laba9\laba9\bin\Debug\net8.0\laba9.exe
+D:\Рыбаков лабы\лаба 9\laba9\laba9\bin\Debug\net8.0\laba9.deps.json
+D:\Рыбаков лабы\лаба 9\laba9\laba9\bin\Debug\net8.0\laba9.runtimeconfig.json
+D:\Рыбаков лабы\лаба 9\laba9\laba9\bin\Debug\net8.0\laba9.dll
+D:\Рыбаков лабы\лаба 9\laba9\laba9\bin\Debug\net8.0\laba9.pdb
+D:\Рыбаков лабы\лаба 9\laba9\laba9\obj\Debug\net8.0\laba9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рыбаков лабы\лаба 9\laba9\laba9\obj\Debug\net8.0\laba9.AssemblyInfoInputs.cache
+D:\Рыбаков лабы\лаба 9\laba9\laba9\obj\Debug\net8.0\laba9.AssemblyInfo.cs
+D:\Рыбаков лабы\лаба 9\laba9\laba9\obj\Debug\net8.0\laba9.csproj.CoreCompileInputs.cache
+D:\Рыбаков лабы\лаба 9\laba9\laba9\obj\Debug\net8.0\laba9.dll
+D:\Рыбаков лабы\лаба 9\laba9\laba9\obj\Debug\net8.0\refint\laba9.dll
+D:\Рыбаков лабы\лаба 9\laba9\laba9\obj\Debug\net8.0\laba9.pdb
+D:\Рыбаков лабы\лаба 9\laba9\laba9\obj\Debug\net8.0\laba9.genruntimeconfig.cache
+D:\Рыбаков лабы\лаба 9\laba9\laba9\obj\Debug\net8.0\ref\laba9.dll
